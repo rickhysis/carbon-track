@@ -3,6 +3,8 @@
 ## Hackathon
 Selected as a Finalist for ETH SEA Hackathon 2024 by coinfest.asia
 
+![Certifcate](./public/Rickhy%20Siswanto_page-0001.jpg "a title")
+
 ## Overview
 
 CarbonTrack is an innovative platform designed to track, record, and verify carbon capture data from various industries. Our mission is to provide a transparent, secure, and efficient way for industries to report their carbon capture efforts, contributing to global climate action. 
